@@ -3,8 +3,8 @@ title: "Programa de Prevención y Control de Arbovirosis| 2025"
 format: 
   dashboard:
     nav-buttons: [twitter, github, facebook]
-    logo: https://www.zacatecas.gob.mx/wp-content/uploads/2024/06/zacgobmx2-400x50-1.png        # logo en la barra de navegación
-    favicon: images/favicon.ico  # 
+    logo: https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg
+    favicon: https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg
 theme: custom.scss
 ---
 
