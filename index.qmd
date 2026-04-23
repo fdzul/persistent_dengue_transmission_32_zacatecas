@@ -1,5 +1,5 @@
 ---
-title: "Programa de Prevención y Control de Arbovirosis| 2025"
+title: "Programa de Prevención y Control de Arbovirosis| 2026 | Zacatecas"
 format: 
   dashboard:
     nav-buttons: [twitter, github, facebook]
